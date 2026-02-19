@@ -83,7 +83,7 @@ playwright-test/
 └── README.md                  # Esta documentación
 ```
 
-## 👤 Autor
+## 👤 Autor: Naranjo97
 
 Automatización desarrollada para validar funcionalidades de Mercado Libre.
 
